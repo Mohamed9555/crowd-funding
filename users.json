@@ -1,0 +1,66 @@
+[
+    {
+        "first_name": "Mohamed",
+        "last_name": "Osama",
+        "email": "mohamedelshafei977@gmail.com",
+        "password": "4512805123a@A",
+        "phone_num": "01113844148",
+        "projects": [
+            {
+                "title": "it's always him ",
+                "details": "new moive",
+                "total_target": "255555",
+                "start_date": "2023-07-08",
+                "end_date": "2023-10-15"
+            }
+        ]
+    },
+    {
+        "first_name": "Mohamed",
+        "last_name": "Osama",
+        "email": "mohamedelshafei97sadas7@gmail.com",
+        "password": "451280512sad3a@A",
+        "phone_num": "01113844148",
+        "projects": [
+            {
+                "title": "Mohamed",
+                "details": "Osama",
+                "total_target": "20000",
+                "start_date": "2002-02-02",
+                "end_date": "2003-03-11"
+            }
+        ]
+    },
+    {
+        "first_name": "Mohamed",
+        "last_name": "Osama",
+        "email": "mohamedelshafei97777@gmail.com",
+        "password": "45128sad05123a@A",
+        "phone_num": "01113844148",
+        "projects": []
+    },
+    {
+        "first_name": "Mohamed",
+        "last_name": "Osama",
+        "email": "El@gmail.com",
+        "password": "45128051ads23A@a",
+        "phone_num": "01113844148",
+        "projects": []
+    },
+    {
+        "first_name": "hossam",
+        "last_name": "adel",
+        "email": "hoss@gmail.com",
+        "password": "123456789A@a",
+        "phone_num": "01113844148",
+        "projects": []
+    },
+    {
+        "first_name": "mo",
+        "last_name": "os",
+        "email": "mo@gmail.com",
+        "password": "1234567sad89a@A",
+        "phone_num": "01113844148",
+        "projects": []
+    }
+]
