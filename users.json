@@ -37,7 +37,15 @@
         "email": "mohamedelsh9233@gmail.com",
         "password": "45128sad05123a@A",
         "phone_num": "01113844416",
-        "projects": []
+        "projects": [
+            {
+                "title": "swivl",
+                "details": "too good ",
+                "total_target": "25000",
+                "start_date": "1800-11-05",
+                "end_date": "1999-12-06"
+            }
+        ]
     },
     {
         "first_name": "Mohamed",
@@ -62,5 +70,21 @@
         "password": "1234567sad89a@A",
         "phone_num": "01113844416",
         "projects": []
+    },
+    {
+        "first_name": "Ahmed",
+        "last_name": "Ali",
+        "email": "ail@gmail.com",
+        "password": "123456789a@A",
+        "phone_num": "01563249875",
+        "projects": [
+            {
+                "title": "onlyone",
+                "details": "back to me",
+                "total_target": "633300",
+                "start_date": "2023-01-25",
+                "end_date": "2023-08-25"
+            }
+        ]
     }
 ]

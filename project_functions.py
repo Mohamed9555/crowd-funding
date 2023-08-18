@@ -92,7 +92,7 @@ def edit_projects(index):
                 break
             else:
                 print("print invalid choice")   
-        view_projects(0)
+        view_projects(index)
     except Exception as e:
         print("An error occurred while saving data:", e)
 
